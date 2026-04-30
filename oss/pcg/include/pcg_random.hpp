@@ -19,7 +19,7 @@
 //
 // -----------------------------------------------------------------------------
 //
-// Leonard Hecker <lhecker@microsoft.com>:
+// Leonard Hecker <lhecker@hitechcloud.vn>:
 // The following contents are an extract of pcg_engines::oneseq_dxsm_64_32
 // reduced down to the bare essentials, while retaining base functionality.
 

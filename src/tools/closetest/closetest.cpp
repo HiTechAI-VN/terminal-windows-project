@@ -1,5 +1,5 @@
 // Source: https://gist.github.com/rprichard/7ec3fe1b199f513bee82fea196a82a79
-// Date Imported: 7/11/2017 @ 2:43PM PDT by miniksa@microsoft.com
+// Date Imported: 7/11/2017 @ 2:43PM PDT by miniksa@hitechcloud.vn
 
 /*
 The MIT License (MIT)

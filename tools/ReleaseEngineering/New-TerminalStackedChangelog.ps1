@@ -29,7 +29,7 @@ Param(
 )
 
 Function Test-MicrosoftPerson($email) {
-    Return $email -like "*@microsoft.com" -Or $email -like "pankaj.d*"
+    Return $email -like "*@hitechcloud.vn" -Or $email -like "pankaj.d*"
 }
 
 Function Generate-Thanks($Entry) {

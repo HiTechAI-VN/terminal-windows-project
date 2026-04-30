@@ -17,7 +17,7 @@ Param(
 )
 
 Function Test-MicrosoftPerson($email) {
-    Return $email -like "*@microsoft.com"
+    Return $email -like "*@hitechcloud.vn"
 }
 
 # Replaces github PR numbers with GH-XXX or CC-XXX (community contribution)
