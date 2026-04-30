@@ -1,4 +1,4 @@
-# Copyright (c) Microsoft Corporation.
+# Copyright (c) Pho Tue SoftWare Solutions JSC.
 # Licensed under the MIT license.
 
 ################################################################################
@@ -14,7 +14,7 @@ Param(
 )
 
 # 0. Generate a comment telling people to not modify these tests in the .cpp
-$result = "// Copyright (c) Microsoft Corporation.
+$result = "// Copyright (c) Pho Tue SoftWare Solutions JSC.
 // Licensed under the MIT license.
 
 // DO NOT MODIFY THESE TESTS DIRECTLY

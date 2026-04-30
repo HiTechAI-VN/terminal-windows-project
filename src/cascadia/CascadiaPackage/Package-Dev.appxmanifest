@@ -19,7 +19,7 @@
 
   <Identity
     Name="WindowsTerminalDev"
-    Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+    Publisher="CN=Pho Tue SoftWare Solutions JSC, O=Pho Tue SoftWare Solutions JSC, L=Redmond, S=Washington, C=US"
     Version="0.0.1.0" />
 
   <Properties>

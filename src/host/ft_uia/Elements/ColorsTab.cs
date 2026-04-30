@@ -1,6 +1,6 @@
 //----------------------------------------------------------------------------------------------------------------------
 // <copyright file="ColorsTab.cs" company="Microsoft">
-//     Copyright (c) Microsoft Corporation.  All rights reserved.
+//     Copyright (c) Pho Tue SoftWare Solutions JSC.  All rights reserved.
 // </copyright>
 // <summary>Wrapper and helper for instantiating and interacting with the Colors tab of the properties dialog.</summary>
 //----------------------------------------------------------------------------------------------------------------------

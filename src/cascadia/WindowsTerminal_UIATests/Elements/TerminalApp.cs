@@ -1,6 +1,6 @@
 //----------------------------------------------------------------------------------------------------------------------
 // <copyright file="TerminalApp.cs" company="Microsoft">
-//     Copyright (c) Microsoft Corporation.  All rights reserved.
+//     Copyright (c) Pho Tue SoftWare Solutions JSC.  All rights reserved.
 // </copyright>
 // <summary>Helper and wrapper for generating the base test application and its UI Root node.</summary>
 //----------------------------------------------------------------------------------------------------------------------

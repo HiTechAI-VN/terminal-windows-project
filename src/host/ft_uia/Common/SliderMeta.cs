@@ -1,6 +1,6 @@
 //----------------------------------------------------------------------------------------------------------------------
 // <copyright file="SliderMeta.cs" company="Microsoft">
-//     Copyright (c) Microsoft Corporation.  All rights reserved.
+//     Copyright (c) Pho Tue SoftWare Solutions JSC.  All rights reserved.
 // </copyright>
 // <summary>Range Value Slider metadata information helper class.</summary>
 //----------------------------------------------------------------------------------------------------------------------

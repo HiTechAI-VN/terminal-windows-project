@@ -1,6 +1,6 @@
 //----------------------------------------------------------------------------------------------------------------------
 // <copyright file="VirtualTerminalTests.cs" company="Microsoft">
-// Copyright (c) Microsoft Corporation.
+// Copyright (c) Pho Tue SoftWare Solutions JSC.
 // Licensed under the MIT license.
 // </copyright>
 // <summary>UI Automation tests for the Virtual Terminal feature.</summary>

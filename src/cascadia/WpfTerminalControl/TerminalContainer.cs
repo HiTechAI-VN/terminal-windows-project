@@ -1,5 +1,5 @@
-// <copyright file="TerminalContainer.cs" company="Microsoft Corporation">
-// Copyright (c) Microsoft Corporation.
+// <copyright file="TerminalContainer.cs" company="Pho Tue SoftWare Solutions JSC">
+// Copyright (c) Pho Tue SoftWare Solutions JSC.
 // Licensed under the MIT license.
 // </copyright>
 

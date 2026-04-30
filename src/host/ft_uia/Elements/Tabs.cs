@@ -1,6 +1,6 @@
 //----------------------------------------------------------------------------------------------------------------------
 // <copyright file="Tabs.cs" company="Microsoft">
-//     Copyright (c) Microsoft Corporation.  All rights reserved.
+//     Copyright (c) Pho Tue SoftWare Solutions JSC.  All rights reserved.
 // </copyright>
 // <summary>Wrapper and helper for instantiating all known tabs of the properties dialog.</summary>
 //----------------------------------------------------------------------------------------------------------------------

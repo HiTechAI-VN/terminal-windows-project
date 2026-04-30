@@ -1,5 +1,5 @@
 /*
-* Copyright (c) Microsoft Corporation.
+* Copyright (c) Pho Tue SoftWare Solutions JSC.
 * Licensed under the MIT license.
 *
 * This File was generated using the VisualTAEF C++ Project Wizard.

@@ -1,6 +1,6 @@
 //----------------------------------------------------------------------------------------------------------------------
 // <copyright file="WinEventTests.cs" company="Microsoft">
-// Copyright (c) Microsoft Corporation.
+// Copyright (c) Pho Tue SoftWare Solutions JSC.
 // Licensed under the MIT license.
 // </copyright>
 // <summary>UI Automation tests for the Accessibility WinEvents feature.</summary>
@@ -318,7 +318,7 @@ namespace Conhost.UIA.Tests
                 sbiex.dwCursorPosition.Y++;
                 expected.Enqueue(new EventData(EventType.UpdateRegion, 0, sbiex.dwCursorPosition.Y, "Microsoft Windows [Version 10.0.14974.1001]".Length - 1, sbiex.dwCursorPosition.Y));
                 sbiex.dwCursorPosition.Y++;
-                expected.Enqueue(new EventData(EventType.UpdateRegion, 0, sbiex.dwCursorPosition.Y, "(c) 2016 Microsoft Corporation. All rights reserved.".Length - 1, sbiex.dwCursorPosition.Y));
+                expected.Enqueue(new EventData(EventType.UpdateRegion, 0, sbiex.dwCursorPosition.Y, "(c) 2016 Pho Tue SoftWare Solutions JSC. All rights reserved.".Length - 1, sbiex.dwCursorPosition.Y));
                 sbiex.dwCursorPosition.Y++;
                 sbiex.dwCursorPosition.Y++;
                 expected.Enqueue(new EventData(EventType.UpdateRegion, 0, sbiex.dwCursorPosition.Y, sbiexOriginal.dwCursorPosition.X - 1, sbiex.dwCursorPosition.Y));

@@ -1,6 +1,6 @@
 //----------------------------------------------------------------------------------------------------------------------
 // <copyright file="ShortcutHelper.cs" company="Microsoft">
-//     Copyright (c) Microsoft Corporation.  All rights reserved.
+//     Copyright (c) Pho Tue SoftWare Solutions JSC.  All rights reserved.
 // </copyright>
 // <summary>Console UI Automation shortcut file manipulation</summary>
 //----------------------------------------------------------------------------------------------------------------------

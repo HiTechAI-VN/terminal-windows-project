@@ -20,12 +20,12 @@
 
   <Identity
     Name="Microsoft.WindowsTerminalPreview"
-    Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+    Publisher="CN=Pho Tue SoftWare Solutions JSC, O=Pho Tue SoftWare Solutions JSC, L=Redmond, S=Washington, C=US"
     Version="0.5.0.0" />
 
   <Properties>
     <DisplayName>ms-resource:AppStoreNamePre</DisplayName>
-    <PublisherDisplayName>Microsoft Corporation</PublisherDisplayName>
+    <PublisherDisplayName>Pho Tue SoftWare Solutions JSC</PublisherDisplayName>
     <Logo>Images\StoreLogo.png</Logo>
     <!-- Older versions of Windows 10 respect this -->
     <desktop6:RegistryWriteVirtualization>disabled</desktop6:RegistryWriteVirtualization>

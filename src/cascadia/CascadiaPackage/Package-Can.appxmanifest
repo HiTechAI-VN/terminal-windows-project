@@ -19,12 +19,12 @@
 
   <Identity
     Name="Microsoft.WindowsTerminalCanary"
-    Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+    Publisher="CN=Pho Tue SoftWare Solutions JSC, O=Pho Tue SoftWare Solutions JSC, L=Redmond, S=Washington, C=US"
     Version="0.0.1.0" />
 
   <Properties>
     <DisplayName>ms-resource:AppStoreNameCan</DisplayName>
-    <PublisherDisplayName>Microsoft Corporation</PublisherDisplayName>
+    <PublisherDisplayName>Pho Tue SoftWare Solutions JSC</PublisherDisplayName>
     <Logo>Images\StoreLogo.png</Logo>
     <!-- Older versions of Windows 10 respect this -->
     <desktop6:RegistryWriteVirtualization>disabled</desktop6:RegistryWriteVirtualization>

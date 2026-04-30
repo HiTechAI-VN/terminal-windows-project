@@ -559,7 +559,7 @@
     <comment>This is the default option if a user doesn't choose to override Microsoft's choice of a Terminal.</comment>
   </data>
   <data name="InboxWindowsConsoleAuthor" xml:space="preserve">
-    <value>Microsoft Corporation</value>
+    <value>Pho Tue SoftWare Solutions JSC</value>
     <comment>Paired with `InboxWindowsConsoleName`, this is the application author... which is us: Microsoft.</comment>
   </data>
   <data name="InboxWindowsConsoleName" xml:space="preserve">

@@ -1,7 +1,7 @@
 //
 // fuzzing_logic.h
 //
-// Copyright (c) Microsoft Corporation.
+// Copyright (c) Pho Tue SoftWare Solutions JSC.
 // Licensed under the MIT license.
 //
 // The directed fuzzing logic header.  Must be paired together with fuzzing_directed.h.

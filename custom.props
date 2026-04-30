@@ -9,6 +9,6 @@
     <VersionInfoProductName>Windows Terminal</VersionInfoProductName>
     <VersionInfoCulture>1033</VersionInfoCulture>
     <!-- The default has a spacing problem -->
-    <VersionInfoCopyRight>\xa9 Microsoft Corporation. All rights reserved.</VersionInfoCopyRight>
+    <VersionInfoCopyRight>\xa9 Pho Tue SoftWare Solutions JSC. All rights reserved.</VersionInfoCopyRight>
   </PropertyGroup>
 </Project>

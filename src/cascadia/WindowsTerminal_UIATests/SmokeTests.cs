@@ -1,6 +1,6 @@
 //----------------------------------------------------------------------------------------------------------------------
 // <copyright file="SmokeTests.cs" company="Microsoft">
-// Copyright (c) Microsoft Corporation.
+// Copyright (c) Pho Tue SoftWare Solutions JSC.
 // Licensed under the MIT license.
 // </copyright>
 // <summary>UI Automation tests for verifying the basic opening/closing of the Terminal.</summary>

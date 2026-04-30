@@ -6,7 +6,7 @@
          xmlns:uap5="http://schemas.microsoft.com/appx/manifest/uap/windows10/5"
          xmlns:desktop4="http://schemas.microsoft.com/appx/manifest/desktop/windows10/4"
          xmlns:iot2="http://schemas.microsoft.com/appx/manifest/iot/windows10/2">
-  <Identity Name="ConsoleIntegrityUWP" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" Version="1.1.0.0" />
+  <Identity Name="ConsoleIntegrityUWP" Publisher="CN=Pho Tue SoftWare Solutions JSC, O=Pho Tue SoftWare Solutions JSC, L=Redmond, S=Washington, C=US" Version="1.1.0.0" />
   <mp:PhoneIdentity PhoneProductId="761B94F3-E09C-44A7-82A2-2284E9737922" PhonePublisherId="7BBC2B11-63F3-4C4F-AF1F-1D7D07C21E6F" />
   <Properties>
     <DisplayName>ConsoleIntegrityUWP</DisplayName>
@@ -47,7 +47,7 @@
   </Capabilities>
   <Dependencies>
     <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17004.0" MaxVersionTested="10.0.17004.0" />
-    <PackageDependency Name="Microsoft.VCLibs.140.00" MinVersion="14.0.0.0" Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US" />
+    <PackageDependency Name="Microsoft.VCLibs.140.00" MinVersion="14.0.0.0" Publisher="CN=Pho Tue SoftWare Solutions JSC, O=Pho Tue SoftWare Solutions JSC, L=Redmond, S=Washington, C=US" />
   </Dependencies>
   <Resources>
     <Resource Language="en-US" />

@@ -1,6 +1,6 @@
 //----------------------------------------------------------------------------------------------------------------------
 // <copyright file="MouseWheelTests.cs" company="Microsoft">
-// Copyright (c) Microsoft Corporation.
+// Copyright (c) Pho Tue SoftWare Solutions JSC.
 // Licensed under the MIT license.
 // </copyright>
 // <summary>UI Automation tests for ensuring mouse wheel functionality.</summary>

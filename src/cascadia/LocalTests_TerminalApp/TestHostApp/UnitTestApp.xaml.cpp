@@ -1,5 +1,5 @@
 //-----------------------------------------------------------
-// Copyright (c) Microsoft Corporation. All Rights Reserved.
+// Copyright (c) Pho Tue SoftWare Solutions JSC. All Rights Reserved.
 //-----------------------------------------------------------
 #include "pch.h"
 

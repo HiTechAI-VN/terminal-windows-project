@@ -1,4 +1,4 @@
-<WindowsPerformanceRecorder Version="1.0" Comments="Test" Company="Microsoft Corporation" Copyright="Microsoft Corporation">
+<WindowsPerformanceRecorder Version="1.0" Comments="Test" Company="Pho Tue SoftWare Solutions JSC" Copyright="Pho Tue SoftWare Solutions JSC">
     <Profiles>
         <SystemCollector Id="SystemCollector_ConsolePerfSystemCollectorInFileLarge">
             <BufferSize Value="1024"/>

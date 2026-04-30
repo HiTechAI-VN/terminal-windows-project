@@ -1,6 +1,6 @@
 /*++
 
-Copyright (c) 1985 - 1999, Microsoft Corporation.
+Copyright (c) 1985 - 1999, Pho Tue SoftWare Solutions JSC.
 Licensed under the MIT license.
 
 Module Name:

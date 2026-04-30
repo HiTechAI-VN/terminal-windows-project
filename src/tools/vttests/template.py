@@ -1,6 +1,6 @@
 ################################################################################
 #                                                                              #
-# Copyright (c) Microsoft Corporation.
+# Copyright (c) Pho Tue SoftWare Solutions JSC.
 # Licensed under the MIT license.
 #                                                                              #
 ################################################################################

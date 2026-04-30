@@ -1,5 +1,5 @@
 /*++
-Copyright (c) Microsoft Corporation Licensed under the MIT license.
+Copyright (c) Pho Tue SoftWare Solutions JSC Licensed under the MIT license.
 
 Class Name:
 - WindowEmperor.h

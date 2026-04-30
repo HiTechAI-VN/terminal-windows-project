@@ -16,7 +16,7 @@ $fullPath = Resolve-Path $JsonFile
 $jsonData = Get-Content -Raw $JsonFile | ConvertFrom-Json | ConvertTo-Json -Compress -Depth 100
 
 @(
-    "// Copyright (c) Microsoft Corporation",
+    "// Copyright (c) Pho Tue SoftWare Solutions JSC",
     "// Licensed under the MIT license.",
     "",
     "// THIS IS AN AUTO-GENERATED FILE",

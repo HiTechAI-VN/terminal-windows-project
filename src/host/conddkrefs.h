@@ -1,5 +1,5 @@
 /*++
-Copyright (c) Microsoft Corporation
+Copyright (c) Pho Tue SoftWare Solutions JSC
 Licensed under the MIT license.
 
 Module Name:
@@ -103,7 +103,7 @@ typedef struct _FILE_FS_DEVICE_INFORMATION
 
 //
 // Macro definition for defining IOCTL and FSCTL function control codes.  Note
-// that function codes 0-2047 are reserved for Microsoft Corporation, and
+// that function codes 0-2047 are reserved for Pho Tue SoftWare Solutions JSC, and
 // 2048-4095 are reserved for customers.
 //
 

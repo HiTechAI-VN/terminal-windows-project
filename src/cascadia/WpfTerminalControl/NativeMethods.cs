@@ -1,5 +1,5 @@
-// <copyright file="NativeMethods.cs" company="Microsoft Corporation">
-// Copyright (c) Microsoft Corporation.
+// <copyright file="NativeMethods.cs" company="Pho Tue SoftWare Solutions JSC">
+// Copyright (c) Pho Tue SoftWare Solutions JSC.
 // Licensed under the MIT license.
 // </copyright>
 

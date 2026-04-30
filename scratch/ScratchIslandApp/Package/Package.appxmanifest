@@ -17,7 +17,7 @@
 
   <Identity
     Name="ScratchApplication"
-    Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+    Publisher="CN=Pho Tue SoftWare Solutions JSC, O=Pho Tue SoftWare Solutions JSC, L=Redmond, S=Washington, C=US"
     Version="1.0.0.0" />
 
   <Properties>
